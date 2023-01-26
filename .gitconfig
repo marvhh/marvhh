@@ -1,0 +1,15 @@
+[git]
+	editor = /usr/bin/vim
+	pager = /usr/bin/less
+[color]
+	diff = always
+	ui = auto
+[user]
+	email = moin@marv.hamburg
+	name = Marvin Stark
+[push]
+	default = current
+[pull]
+	rebase = true
+[merge]
+	tool = vimdiff
