@@ -1,11 +1,11 @@
 <h1 align="center">@marvhh</h3>
 
 <p align="center">
-  Moin Moin! My name is Marvin and I'm working at <a href="https://www.compositiv.com">@compositiv</a>.
+  Moin! My name is Marvin and I'm working at <a href="https://www.compositiv.com">@compositiv</a>.
   <br>
   🔭 I'm currently working on: Automation, it security, debian and other open source projects.
   <br>
-  🌱 I'm currently going into deeper learning: Python 3 and Kubernetes
+  🌱 I'm currently going into deeper learning: Python3 and Kubernetes.
   <br>
   <br>
   I love to build, learn and support the open source community ❤️
