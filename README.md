@@ -18,10 +18,3 @@
   <a href="https://www.linkedin.com/in/marvin-stark-437394257/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://marv.hamburg/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/website-%2312100E.svg?&style=for-the-badge&logo=icloud&logoColor=white" /></a>
 </p>
-
-<h2 align="center">Stats 📊</h3>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=marvhh&count_private=true&show_icons=true&theme=tokyonight"/>
-  <br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=marvhh&theme=tokyonight"/>
-</p>
